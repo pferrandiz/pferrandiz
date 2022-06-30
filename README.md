@@ -6,7 +6,7 @@ Desarrollador Full Stack Developer
 
 He realizado el bootcamp de Hack a Boos y actualmente sigo formándome como desarrollador de aplicaciones web.
 
-* 🌍  Vivo en Alicnte, España
+* 🌍  Vivo en Alicante, España
 * ✉️  Puedes contactarme en [pabloferrrandizmarco@gmail.com](mailto:pabloferrrandizmarco@gmail.com)
 * 🧠  Estoy aprendiendo Phyton
 * 🤝  Estoy abierto a colaborar en proyectos para seguir aprendiendo
